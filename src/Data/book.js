@@ -1,4 +1,4 @@
-exports.books = [
+module.exports = [
     {
         "id":1,
         "lenguaje":"java",
@@ -35,5 +35,3 @@ exports.books = [
         "status":"No activo"
     }, 
 ]
-exports.ACTIVE = "ACTIVO"
-exports.INACTIVE = "NO ACTIVO"
